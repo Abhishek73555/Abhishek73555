@@ -3,7 +3,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ShreyashSri&label=Visitors&color=0e75b6&style=flat-square" alt="shreyashsri" /> 
+  <img src="https://komarev.com/ghpvc/?username=Abhishek73555&label=Visitors&color=0e75b6&style=flat-square" alt="Abhishek_Tiwari" /> 
 </p>
 
 <h1 align="left">💫 About Me:</h1>
@@ -12,22 +12,22 @@
 
 - 👨‍💻 All of my projects are available at **http://localhost:8000/**
 
-- 📫 How to reach me: **shreyash.sri09@gmail.com**
+- 📫 How to reach me: **abhishri73555@gmail.com**
 
 - ⚡ Fun fact: Opposite of Extraordinary is Extra ordinary
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/imshreyashsri" target="blank">
+  <!-- <a href="https://twitter.com/imshreyashsri" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="shreyashsri" height="50" width="50" />
-  </a>
+  </a> -->
   <a href="https://linkedin.com/in/ShreyashSri" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="shreyashsri" height="50" width="50" />
   </a>
-  <a href="https://instagram.com/imshreyashsri" target="blank">
+  <!-- <a href="https://instagram.com/imshreyashsri" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="shreyashsri" height="50" width="50" />
-  </a>
+  </a> -->
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -41,25 +41,25 @@
 <table>
   <tr>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=ShreyashSri&theme=neon-palenight&hide_border=true&card_width=705" alt="" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Abhishek73555&theme=neon-palenight&hide_border=true&card_width=705" alt="" />
     </td>
    </tr>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyashSri&theme=2077">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek73555&theme=2077">
      </td>
    </tr>
 </table>
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyashSri&theme=aura_dark"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyashSri&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek73555&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek73555&theme=aura_dark"></td>
   </tr>
 </table>
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ShreyashSri&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Abhishek73555&show_icons=true&theme=radical" />
     </td>
   </tr>
 </table>
