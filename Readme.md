@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-  <a href="https://linkedin.com/in/ShreyashSri" target="blank">
+  <a href="https://linkedin.com/in/abhishek-tiwari-8b5598315" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="shreyashsri" height="50" width="50" />
   </a>
  
