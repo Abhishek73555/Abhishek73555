@@ -26,8 +26,9 @@
 
 | Competition | Achievement | Participants |
 |:-----------:|:-----------:|:------------:|
+| 🏆 **HackVSIT 7.0** | Finalist | 2000+ teams |
 | 🏆 **HackIITK** | Semi-Finalist | 4000+ teams |
-| 🏆 **HackCBS 8.0** | Top-10 | 800+ teams |
+| 🏆 **HackCBS 8.0** | Finalist | 800+ teams |
 
 </div> 
 
@@ -42,7 +43,6 @@
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> -->
