@@ -1,11 +1,3 @@
-
-<!-- <img
-  src="https://github.com/Abhishek73555/Abhishek73555/blob/main/frame.png"
-  style="border-radius: 50%"
-  /> -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
 <img 
   src="http://itshivam.in/api/github-profile?username=abhitics&data=followers,repositories,stars,commits&theme=blue" 
   alt="GitHub WidgetBox - abhitics" 
@@ -15,7 +7,7 @@
 
 <p align="center"> 
   <img 
-  src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2FAbhishek73555&label=VISITORS&labelColor=%2300FF88&countColor=%2300FF88" 
+  src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabhitics&label=VISITORS&labelColor=%2300FF88&countColor=%2300FF88" 
   alt=" Profile Visitors - abhitics"
   style="max-width: 100%;"
 />
@@ -33,11 +25,7 @@
 </div> 
 
 <br/>
-</div>
 
-
-
-  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <div align="center">
@@ -82,31 +70,34 @@
 <!-- <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> -->
 
+### 📊 Data Science & Visualization
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
 
-### 🤖AI/ML
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=graph&logoColor=white" />
-<img src="https://img.shields.io/badge/LangSmith-121212?style=for-the-badge&logo=smith&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-00599C?style=for-the-badge&logo=protocol&logoColor=white" /> 
+### 🤖 Machine Learning Frameworks
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-EC1C24?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-003B57?style=for-the-badge&logo=python&logoColor=white" />
+
+### 🧠 Deep Learning & Generative AI
+
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/JAX-0053D6?style=for-the-badge&logo=jax&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-2C5AA0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
 
 ### 💾 Version Control
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" />
-<img src="https://img.shields.io/badge/LazyGit-018EF5?style=for-the-badge&logo=git&logoColor=white" /> -->
-
-### 🖥️ Editors & IDEs
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
- <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /> 
-
-### 🐧 Operating Systems
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
 
 </div>
 
