@@ -5,12 +5,7 @@
   style="max-width: 100%;" 
 />
 
-<p align="center"> 
-  <img 
-  src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabhitics&label=VISITORS&labelColor=%2300FF88&countColor=%2300FF88" 
-  alt=" Profile Visitors - abhitics"
-  style="max-width: 100%;"
-/>
+
 
 <br/>
 
