@@ -13,8 +13,8 @@
 
 | Competition | Achievement | Participants |
 |:-----------:|:-----------:|:------------:|
-| 🏆 **HackVSIT 7.0** | Finalist | 2000+ teams |
-| 🏆 **HackIITK** | Semi-Finalist | 4000+ teams |
+| 🏆 **HackVSIT 7.0** | Finalist | 5000+ teams |
+| 🏆 **HackIITK** | Semi-Finalist | 1300+ teams |
 | 🏆 **HackCBS 8.0** | Finalist | 800+ teams |
 
 </div> 
