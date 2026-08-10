@@ -99,8 +99,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+<br/>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/abhitics_" width="80%" alt="LeetCode Stats">
+</p>
+
+
 <a href="https://abhitics.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1F1F1F"/> </a> <a href="https://linkedin.com/in/abhitics"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F1F1F"/> </a> <a href="mailto:abhishri73555@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F1F1F"/> </a> 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=38&fontColor=ffffff&color=gradient&customColorList=0,67,128,171,98,126,234,118,75,162&animation=twinkling&fontAlignY=60&desc=Let's%20connect%20and%20build%20something%20amazing%20together!&descSize=22&descAlignY=85)
 
 
