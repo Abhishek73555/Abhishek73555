@@ -4,9 +4,6 @@
   width="90%" 
   style="max-width: 100%;" 
 />
-
-
-
 <br/>
 
  <div align="center">
