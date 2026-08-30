@@ -105,7 +105,7 @@
 </p>
 
 
-<a href="https://abhitics.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1F1F1F"/> </a> <a href="https://linkedin.com/in/abhitics"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F1F1F"/> </a> <a href="mailto:abhishri73555@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F1F1F"/> </a> 
+<a href="https://abhitics-os.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1F1F1F"/> </a> <a href="https://linkedin.com/in/abhitics"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F1F1F"/> </a> <a href="mailto:abhishri73555@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F1F1F"/> </a> 
 
 
 
